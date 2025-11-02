@@ -1,4 +1,4 @@
-# Sistem Manajemen Perpustakaan (Library Management System)
+# Sistem Manajemen Perpustakaan
 
 Proyek ini adalah implementasi sistem manajemen perpustakaan berbasis C++ yang mencakup fitur pengelolaan buku, majalah, anggota, dan peminjaman.
 
